@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻About me
 - 💡 I am not of risks and like to experiment with new technologies 
-- 🌱 I’m currently learning ![GCP](https://img.shields.io/badge/-GCP-05122A?style=flat&logo=google-cloud) ![Neo4j](https://img.shields.io/badge/-Neo4j-05122A?style=flat&logo=neo4j) ![LangGraph](https://img.shields.io/badge/-LangGraph-05122A?style=flat&logo=langgraph)
+- 🌱 I’m currently learning ![Neo4j](https://img.shields.io/badge/-Neo4j-05122A?style=flat&logo=neo4j) ![LangGraph](https://img.shields.io/badge/-LangGraph-05122A?style=flat&logo=langgraph)
 - 📖 Attending Computer Science Master Degree Studies at [**PJAIT**](https://pja.edu.pl/en/)
 - 👯 Hobbies: sport, foreign languages, literature and cinema
 - 💬 Ask me about anything: collaborations, jobs, interesting discussions
@@ -49,6 +49,7 @@
 [![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=fff)](#)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 [![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](#)
+[![GCP](https://img.shields.io/badge/-GCP-05122A?style=flat&logo=google-cloud)](#)
 
 ### AI/ML, GenAI
 [![LangChain](https://img.shields.io/badge/LangChain-053d5b.svg?&logo=Langchain&logoColor=white)](#)
